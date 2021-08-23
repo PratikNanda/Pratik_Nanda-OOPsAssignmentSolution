@@ -16,9 +16,9 @@ public class Main {
 		System.out.println();
 
 		System.out.println(" Welcome to " + hr.departmentName());
-		System.out.println(hr.getTodaysWork());
-		System.out.println(hr.getWorkDeadline());
 		System.out.println(hr.doActivity());
+		System.out.println(hr.getTodaysWork());
+		System.out.println(hr.getWorkDeadline());	
 		System.out.println(hr.isTodayAHoliday());
 
 		System.out.println();
